@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Hey there, awesome students! Buckle up and get ready to dive into the exciting world of web development with me, your host, Depak Borhara. Now, let's talk about my three personal rules that will make this journey even more enjoyable:
+Hey there, awesome students! Buckle up and get ready to dive into the exciting world of web development with me, your host, Hessvacio Hassan. Now, let's talk about my three personal rules that will make this journey even more enjoyable:
 
 ###### Rule #1
 
