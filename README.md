@@ -1,4 +1,4 @@
-# TTP Summer 2023 Syllabus
+# TTPR LaGuardia Community College 2025 Syllabus
 
 ## Welcome
 
