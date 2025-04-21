@@ -1,8 +1,8 @@
-# TTP Summer 2023 Syllabus
+# TTPR LaGuardia Community College 2025 Syllabus
 
 ## Welcome
 
-Hey there, awesome students! Buckle up and get ready to dive into the exciting world of web development with me, your host, Depak Borhara. Now, let's talk about my three personal rules that will make this journey even more enjoyable:
+Hey there, awesome students! Buckle up and get ready to dive into the exciting world of web development with me, your host, Hessvacio Hassan. Now, let's talk about my three personal rules that will make this journey even more enjoyable:
 
 ###### Rule #1
 
@@ -47,80 +47,70 @@ Alright, let's get this web development party started! [Cue epic music](https://
 - [PostgreSQL Docs](https://www.postgresql.org/docs/15/index.html)
 - [Sequelize Docs](https://sequelize.org/docs/v6/)
 
+Here’s the **updated markdown version** of the course outline adapted to your **April 22, 2025 start date** and **Tues/Thurs/Sun schedule**, with Zoom links and passwords removed as requested:
+
+---
+
 ## Course Outline
 
-#### Phase 1 : Foundation
+#### Phase 1: Foundation
 
-- [x] June 12th: Pilot Assessment, Introductions, Orientation
-  - Recording: https://us06web.zoom.us/rec/share/UpDoarolKxCNnCTEtqGqfO5kNvvHIoYLlkA0w3g9aXB1amfeSxYEJt6Yt06Wj6mx.joG1sQ8-kzEriU6j
-  - Passcode: fBn$4\*A=
-- [x] June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
-  - Recording: https://us06web.zoom.us/rec/share/NGlcLYziFTFTg0ZXG1O9cOAbbHBUUc4qEIw3mFOtuClF22FGK1s3-UhfBXM79N1V.1SEq4f3B7K5-YRm5
-  - Passcode: j8vg@#$Q
-- [x] June 14th: DOM Manipulation
-  - Recording https://us06web.zoom.us/rec/share/FhxrtQF2bNUQYLGe77A6wW-g5KivKgdGYb80TjaEgRgIoPPdSCl6HMMdrxZOxO6j.b1PERfNeoamt4U8q
-  - Passcode: 9#AudEdZ
-- [x] June 15th: Introduction to React
-  - Recording: https://us06web.zoom.us/rec/share/yjyYaokbhPnQL1fIWIX38N_WtVhfttMgJm2BNyTkjEzgeG7jNdCZoQmixfh1YJQ0.kE8dj-BrmKrahRRM
-  - Passcode: ajAVW#T5
-  - Office Hours Recording(Simple App Setup): https://drive.google.com/file/d/1qqiGMlY7l7AOk3Nuaqxh9g0gt-NtTqBa/view?usp=sharing
-- [x] June 16th: Introduction to External API Requests and ReactJS
-  - Link to Pokemon List App: https://github.com/DBorhara/pokemonappttp2023
-  - Recording: https://us06web.zoom.us/rec/share/xL9gxfgCiDzaItGOYshPahqEnOALR-S-pYA4pxNuWBZ9LUTqad3eoKR0-M2SkMpS.zzyJNTI2y5xLymcF
-  - Passcode: ms+5qKYD
+- [ ] Apr 22 (Tues): Pilot Assessment, Introductions, Orientation  
+- [ ] Apr 24 (Thurs): Collaborative Workflow (Git), Introduction to JavaScript  
+- [ ] Apr 27 (Sun): DOM Manipulation (2 hrs), Introduction to React (2 hrs)  
+- [ ] Apr 29 (Tues): External API Requests, ReactJS  
+  - Link to Pokémon App: https://github.com/DBorhara/pokemonappttp2023  
+  - Office Hours (Simple App Setup): https://drive.google.com/file/d/1qqiGMlY7l7AOk3Nuaqxh9g0gt-NtTqBa/view?usp=sharing  
 
-#### Phase 2: React, State Managment and Back-end Development
+---
 
-- [x] June 19th: HOLIDAY - Juneteenth
-- [x] June 20th: React Router
-  - Recording: https://us06web.zoom.us/rec/share/hTY4ZPXVN8G2FaW7NnAtp8ElZSZvZhqMGyIwbs_KmZAVuA0tysNLDi63_4aASUvs.ktK6muT4xnXjU3sB
-  - Passcode: #MJ@#L@2
-- [x] June 21st: React Context/Redux
-  - Recording: https://us06web.zoom.us/rec/share/0o68H3XW60bVQLgqT9RLuE6PprDTk2EpQMxGmFpBVDtYf6ssr08MCu1tn_mF2xM.2_dD_UBPOtgV7wfO
-  - Passcode: FM3R3?GD
-- [x] June 22nd: Introduction to Node.js
-  - Recording: https://us06web.zoom.us/rec/share/yQsu7ExvV04l5sH8w23cI5WvoNfBe8ipJGr6E_iwBg1dKXV0rR8STWBZWbknxsDC.2kGwTJY5mYwxZipM
-  - Passcode: R.x?=r7*
-- [x] June 23th: Introduction to Express.js
-  - Recording: https://us06web.zoom.us/rec/share/2f8Qzbmn9jfkpWHs62FDbzZSNKUOj4gADz85NEtm3qpfv0S7xwToSmETkxdjGYSk.9n8O0suC3S8KNOnx
-  - Passcode: rP7#12Bt
+#### Phase 2: React, State Management, and Back-End Development
+
+- [ ] May 1 (Thurs): React Router  
+- [ ] May 4 (Sun): React Context/Redux (2 hrs), Introduction to Node.js (2 hrs)  
+- [ ] May 6 (Tues): Express.js  
+- [ ] May 8 (Thurs): PostgreSQL / Sequelize I  
+- [ ] May 11 (Sun): PostgreSQL / Sequelize II (2 hrs), CRUD App I (2 hrs)  
+  - Backend Repo: https://github.com/DBorhara/ttpbackend2023  
+
+---
 
 #### Phase 3: CRUD App and Databases
 
-- [x] June 26th: PostgreSQL/Sequelize I
-  - Recording: https://us06web.zoom.us/rec/share/jMl9g5Hvu-OrU1uUIQ76Hmv20B1n803Y1P3diboU77Cl7ZZZnCYN21fVxCD2Tn69.ucDEkfxvqNNNOJk5
-  - Passcode: QrBtV+i9
-- [x] June 27th: PostgreSQL/Sequelize II
-  - Recording: https://us06web.zoom.us/rec/share/J-w9vS_ATh7bmX8ehPQRXN_WxDEBidJt45OcyIz17-3zZmDn9t09K_fLiEt5wznp.o8FovJ149emq6DiV
-  - Passcode: l4#CDk7?
-  - BackEnd Repo Link: https://github.com/DBorhara/ttpbackend2023
-- [x] June 28th: Review Session + CRUD App I
-- [x] June 29th: CRUD App II
-- [x] June 30th: CRUD App II
-- [x] July 3rd: CRUD APP IV
+- [ ] May 13 (Tues): CRUD App II  
+- [ ] May 15 (Thurs): CRUD App III  
+- [ ] May 18 (Sun): CRUD App IV, Review & Polish  
+
+---
 
 #### Phase 4: Advanced Topics
 
-- [x] July 5th: Special Topics: Introduction to Registered Users and Open Authorization
-  - Recording: https://us06web.zoom.us/rec/share/SytFZK8rKvDFexFn23PDHB4ahPtl496USAvUanzFa3IOXC6FmXTyR36R0-wlXM0v.HiOiWatlR9sHaCRF
-  - Passcode: !0?.uM^r
-- [x] July 6th: Special Topics: Introduction to Security and Restrictions
-  - Recording: https://us06web.zoom.us/rec/share/0FdrTstGfixbvOFFyfFyGvFeAjckODNVh9X-Zh4rB8lxiYeiqtdyQOq9xB9tykAA.X1ItBHLUrBsdILU6
-  - Passcode: Z6b*Z!#y
-- [x] July 7th: Special Topics: Introduction to Deployment via Netlify and Heroku
-  - Recording: https://us06web.zoom.us/rec/share/a1ha4adtdycegeZmHaLTsl3t9nKpHRKCABCFHy0oMuB2bZJ-hnpr37XUOekhfT5h.i240erIMTjIJrxK-
-  - Passcode: 2E30S!R=
+- [ ] May 20 (Tues): Registered Users & Open Authorization  
+- [ ] May 22 (Thurs): Security & Restrictions  
+- [ ] May 25 (Sun): Deployment via Netlify & Heroku (2 hrs), Capstone Planning Kickoff (2 hrs)  
+
+---
 
 #### Phase 5: Capstone Project
 
-- [x] July 10th: Capstone 0: Topics Finalized With Staff and Initial Planning/Discussion
-- [ ] July 11th - July 19th: Capstone I - Capstone VII (Progressive development of capstone projects)
+- [ ] May 27 (Tues): Capstone I – Idea + Setup  
+- [ ] May 29 (Thurs): Capstone II – Initial Development  
+- [ ] June 1 (Sun): Capstone III–IV – Build Progress  
+- [ ] June 3 (Tues): Capstone V – Midpoint Review  
+- [ ] June 5 (Thurs): Capstone VI – Continued Development  
+- [ ] June 8 (Sun): Capstone VII–VIII – Testing, Polish  
 
-#### Phase 6: Career Preparation
+---
 
-- [ ] July 20th: Career Coach I: Key Value Pairs and Capstone VIII
-- [ ] July 21st: Career Coach II: Analyzing Modern and Current Job Descriptions and Capstone IX
-- [ ] July 24th: Career Coach III: Resumes, Cover Letters, and Capstone X
-- [ ] July 25th: Career Coach IV: Action Items and Capstone XI
-- [ ] July 26th: Capstone XII: Finalize Capstone Projects
-- [ ] July 28th: Capstone XIV: Demo Day
+#### Phase 6: Career Preparation & Demo
+
+- [ ] June 10 (Tues): Career Coach I – Value Props, Capstone IX  
+- [ ] June 12 (Thurs): Career Coach II – Job Description Analysis, Capstone X  
+- [ ] June 15 (Sun): Career Coach III – Resume + Cover Letters (2 hrs), Capstone XI (2 hrs)  
+- [ ] June 17 (Tues): Career Coach IV – Final Action Plan  
+- [ ] June 19 (Thurs): Demo Day Rehearsal  
+- [ ] June 22 (Sun): 🚀 Capstone XIV – **Demo Day**  
+
+---
+
+Let me know if you’d like a version for Notion, Google Docs, or printable PDF!
