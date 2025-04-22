@@ -1,0 +1,28 @@
+.lead-pic {
+  text-align: center;
+  width: 100%;
+  padding-top: 30px;
+}
+.card {
+  background-color: #EEE;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  min-height: 255px;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.caption {
+  margin-top: 60px;
+}
+
+img {
+  border-radius: 4px;
+}
+
+.center-container {
+  width: 100%;
+  text-align: center;
+}

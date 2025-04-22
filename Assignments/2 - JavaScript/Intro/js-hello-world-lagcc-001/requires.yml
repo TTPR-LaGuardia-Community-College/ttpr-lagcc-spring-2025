@@ -1,0 +1,5 @@
+javascripts:
+  files:
+    - lib/hello.js
+  specs:
+    - spec/hello.spec.js

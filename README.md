@@ -28,9 +28,9 @@ Alright, let's get this web development party started! [Cue epic music](https://
 
 ## Quick Links and Resources
 
-- [Class Repo](https://github.com/DBorhara/ttp-summer-2023)
+- [Class Repo](https://github.com/hhassan1230/ttpr-lagcc-spring-2025)
 
-- [Class Assignment Tracker](https://docs.google.com/spreadsheets/d/1Lb26i0jy8xYHJrRzF0MProzwK0gyT9OedHJvJVylnL4/edit?pli=1#gid=1616898190)
+- [Class Assignment Tracker Coming Soon](https://hessvacio.com/pages/classtracker.html)
 
 - [Pair Programming Guide by Martin Fowler](https://martinfowler.com/articles/on-pair-programming.html)
 
@@ -47,70 +47,62 @@ Alright, let's get this web development party started! [Cue epic music](https://
 - [PostgreSQL Docs](https://www.postgresql.org/docs/15/index.html)
 - [Sequelize Docs](https://sequelize.org/docs/v6/)
 
-Here’s the **updated markdown version** of the course outline adapted to your **April 22, 2025 start date** and **Tues/Thurs/Sun schedule**, with Zoom links and passwords removed as requested:
-
----
-
 ## Course Outline
 
-#### Phase 1: Foundation
+#### Phase 1 – Foundation
 
-- [ ] Apr 22 (Tues): Pilot Assessment, Introductions, Orientation  
-- [ ] Apr 24 (Thurs): Collaborative Workflow (Git), Introduction to JavaScript  
-- [ ] Apr 27 (Sun): DOM Manipulation (2 hrs), Introduction to React (2 hrs)  
-- [ ] Apr 29 (Tues): External API Requests, ReactJS  
-  - Link to Pokémon App: https://github.com/DBorhara/pokemonappttp2023  
-  - Office Hours (Simple App Setup): https://drive.google.com/file/d/1qqiGMlY7l7AOk3Nuaqxh9g0gt-NtTqBa/view?usp=sharing  
-
----
-
-#### Phase 2: React, State Management, and Back-End Development
-
-- [ ] May 1 (Thurs): React Router  
-- [ ] May 4 (Sun): React Context/Redux (2 hrs), Introduction to Node.js (2 hrs)  
-- [ ] May 6 (Tues): Express.js  
-- [ ] May 8 (Thurs): PostgreSQL / Sequelize I  
-- [ ] May 11 (Sun): PostgreSQL / Sequelize II (2 hrs), CRUD App I (2 hrs)  
-  - Backend Repo: https://github.com/DBorhara/ttpbackend2023  
+- [ ] **Apr 22 (Tues):** Pilot Assessment, Introductions, Orientation
+- [ ] **Apr 24 (Thurs):** Collaborative Workflow (Git) & Introduction to JavaScript
+- [ ] **Apr 26 (Sat):** DOM Manipulation (2 hrs) · Introduction to React (2 hrs)
+- [ ] **Apr 29 (Tues):** External API Requests & ReactJS
+  - Pokémon App – <https://github.com/hhassan1230/pokemonappttp2025>
+  - JR TV Demo – <https://hessvacio.com/pages/JRTV/index.html>
 
 ---
 
-#### Phase 3: CRUD App and Databases
+#### Phase 2 – React, State Management & Back‑End
 
-- [ ] May 13 (Tues): CRUD App II  
-- [ ] May 15 (Thurs): CRUD App III  
-- [ ] May 18 (Sun): CRUD App IV, Review & Polish  
-
----
-
-#### Phase 4: Advanced Topics
-
-- [ ] May 20 (Tues): Registered Users & Open Authorization  
-- [ ] May 22 (Thurs): Security & Restrictions  
-- [ ] May 25 (Sun): Deployment via Netlify & Heroku (2 hrs), Capstone Planning Kickoff (2 hrs)  
+- [ ] **May 01 (Thurs):** React Router
+- [ ] **May 03 (Sat):** React Context/Redux (2 hrs) · Introduction to Node.js (2 hrs)
+- [ ] **May 06 (Tues):** Express.js
+- [ ] **May 08 (Thurs):** PostgreSQL / Sequelize I
+- [ ] **May 10 (Sat):** PostgreSQL / Sequelize II (2 hrs) · CRUD App I (2 hrs)
+  - Backend Starter – <https://github.com/hhassan1230/Backend-Template-Node.js>
 
 ---
 
-#### Phase 5: Capstone Project
+#### Phase 3 – CRUD App & Databases
 
-- [ ] May 27 (Tues): Capstone I – Idea + Setup  
-- [ ] May 29 (Thurs): Capstone II – Initial Development  
-- [ ] June 1 (Sun): Capstone III–IV – Build Progress  
-- [ ] June 3 (Tues): Capstone V – Midpoint Review  
-- [ ] June 5 (Thurs): Capstone VI – Continued Development  
-- [ ] June 8 (Sun): Capstone VII–VIII – Testing, Polish  
+- [ ] **May 13 (Tues):** CRUD App II
+- [ ] **May 15 (Thurs):** CRUD App III
+- [ ] **May 17 (Sat):** CRUD App IV · Review & Polish
 
 ---
 
-#### Phase 6: Career Preparation & Demo
+#### Phase 4 – Advanced Topics
 
-- [ ] June 10 (Tues): Career Coach I – Value Props, Capstone IX  
-- [ ] June 12 (Thurs): Career Coach II – Job Description Analysis, Capstone X  
-- [ ] June 15 (Sun): Career Coach III – Resume + Cover Letters (2 hrs), Capstone XI (2 hrs)  
-- [ ] June 17 (Tues): Career Coach IV – Final Action Plan  
-- [ ] June 19 (Thurs): Demo Day Rehearsal  
-- [ ] June 22 (Sun): 🚀 Capstone XIV – **Demo Day**  
+- [ ] **May 20 (Tues):** Registered Users & Open Authorization
+- [ ] **May 22 (Thurs):** Security & Restrictions
+- [ ] **May 24 (Sat):** Deployment (Netlify & Heroku) (2 hrs) · Capstone Planning Kickoff (2 hrs)
 
 ---
 
-Let me know if you’d like a version for Notion, Google Docs, or printable PDF!
+#### Phase 5 – Capstone Project
+
+- [ ] **May 27 (Tues):** Capstone I – Idea & Setup
+- [ ] **May 29 (Thurs):** Capstone II – Initial Development
+- [ ] **May 31 (Sat):** Capstone III‑IV – Build Progress
+- [ ] **Jun 03 (Tues):** Capstone V – Midpoint Review
+- [ ] **Jun 05 (Thurs):** Capstone VI – Continued Development
+- [ ] **Jun 07 (Sat):** Capstone VII‑VIII – Testing & Polish
+
+---
+
+#### Phase 6 – Career Preparation & Demo
+
+- [ ] **Jun 10 (Tues):** Career Coach I – Value Props · Capstone IX
+- [ ] **Jun 12 (Thurs):** Career Coach II – Job‑Description Analysis · Capstone X
+- [ ] **Jun 14 (Sat):** Career Coach III – Résumé & Cover Letters (2 hrs) · Capstone XI (2 hrs)
+- [ ] **Jun 17 (Tues):** Career Coach IV – Final Action Plan
+- [ ] **Jun 19 (Thurs):** Demo Day Rehearsal
+- [ ] **Jun 21 (Sat):** 🚀 **Capstone XIV – DEMO DAY!**
